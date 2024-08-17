@@ -1,2 +1,2 @@
 # odin-recipes
-Website containing 2 different recipes
+Website containing 3 different recipes
